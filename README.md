@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ 有趣的事实: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buiawpkgew1&show_icons=true&theme=radical)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=521xueweihan)](https://github.com/anuraghazra/github-readme-stats)
