@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 人称代词: ...
 - ⚡ 有趣的事实: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buiawpkgew1&count_private=true&show_icons=true)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buiawpkgew1&show_icons=true&theme=radical)
