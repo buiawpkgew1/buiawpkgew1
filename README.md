@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ 有趣的事实: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buiawpkgew1&show_icons=true&theme=radical)
-<img src="https://socialify-mzymgsg1c-whe.vercel.app/buiawpkgew1/Wurst7/image?description=1&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Light" alt="Wurst7" width="640" height="320" />
+![Wurst7](https://socialify-mzymgsg1c-whe.vercel.app/buiawpkgew1/Wurst7/image?description=1&descriptionEditable=Minecraft%20Wurst%20Hacked%20Client%20v7&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Light)
