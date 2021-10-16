@@ -14,15 +14,8 @@ Here are some ideas to get you started:
 - 😄 人称代词: ...
 - ⚡ 有趣的事实: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buiawpkgew1&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buiawpkgew1&count_private=true&show_icons=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buiawpkgew1&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buiawpkgew1)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buiawpkgew1&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buiawpkgew12&repo=convoychat" />
-</a>
