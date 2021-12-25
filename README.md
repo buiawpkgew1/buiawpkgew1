@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buiawpkgew1&show_icons=true&theme=radical)
 <a href="https://github.com/buiawpkgew1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=buiawpkgew&show_icons=true&theme=dracula&locale=cn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=buiawpkgew1&show_icons=true&theme=dracula&locale=cn" />
 </a>
