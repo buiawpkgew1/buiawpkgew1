@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ 有趣的事实: ...
 -->
 <a href="https://github.com/buiawpkgew1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buiawpkgew1&layout=compact&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buiawpkgew1&layout=compact&theme=dracula&locale=cn" />
 </a>
 <a href="https://github.com/buiawpkgew1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=buiawpkgew1&show_icons=true&theme=dracula&locale=cn" />
