@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 人称代词: ...
 - ⚡ 有趣的事实: ...
 -->
+<p align='center'>
+ <img src="https://gen.plancke.io/exp/lroj.png">
+</p>
+
 <a href="https://github.com/buiawpkgew1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buiawpkgew1&layout=compact&theme=dracula&locale=cn" />
 </a>
