@@ -18,6 +18,10 @@ Here are some ideas to get you started:
  <img src="https://gen.plancke.io/exp/lroj.png">
 </p>
 
+<p align='center'>
+ <img src="https://gen.plancke.io/achievementPoints/lroj.png">
+</p>
+
 <a href="https://github.com/buiawpkgew1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buiawpkgew1&layout=compact&theme=dracula&locale=cn" />
 </a>
