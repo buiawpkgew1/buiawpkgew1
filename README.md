@@ -29,4 +29,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=buiawpkgew1&show_icons=true&theme=dracula&locale=cn" />
 </a>
 
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=buiawpkgew1&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" key="img-5-1-4">
+
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=valetzx&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" key="img-5-1-4">
